@@ -166,7 +166,7 @@ export const workExperience = [
   {
     id: 3,
     title: "Research Intern",
-    desc: "Intern at NIT Silchar. Researched on Wireless Charging Techniques in EVs.  ",
+    desc: "IEEE-SS under [NIT Silchar]. Researching on Wireless Charging Techniques in EVs.  ",
     className: "md:col-span-2", // change to md:col-span-2
     thumbnail: "/exp2.svg",
   },
