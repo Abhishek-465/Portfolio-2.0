@@ -213,7 +213,7 @@ export const socialMedia = [
   {
     id: 2,
     img: "/twit.svg",
-    link: "https://x.com/AbhiVibes_1432?t=cGfS9hladfPQGWgT2isPuw&s=09",
+    link: "https://x.com/abhiii_1432?t=pLknF-hgkUtJfHKivfg_bA&s=09",
   },
   {
     id: 3,
