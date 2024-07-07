@@ -1,12 +1,12 @@
 "use client";
-import pic from "../public/astro.jpg";
+import pic from "../public/math.jpg";
 
 import Image from "next/image";
 import React from "react";
 import { CardBody, CardContainer, CardItem } from "./ui/3d-card";
 import Link from "next/link";
 
-export function Course() {
+export function Course2() {
   return (
     <div>
       {" "}
@@ -17,14 +17,14 @@ export function Course() {
             translateZ="50"
             className="text-xl font-bold text-neutral-600 dark:text-white"
           >
-            Astronomy
+            Mathematical Thinking
           </CardItem>
           <CardItem
             as="p"
             translateZ="60"
             className="text-neutral-500 text-sm max-w-sm mt-2 dark:text-neutral-300"
           >
-            University of Arizona, Coursera
+            Stanford University, Coursera
           </CardItem>
           <CardItem translateZ="100" className="w-full mt-4">
             <Image

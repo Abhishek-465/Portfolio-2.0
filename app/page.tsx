@@ -1,5 +1,6 @@
 import Clients from "@/components/Clients";
 import { Course } from "@/components/Course";
+import { Course2 } from "@/components/Course2";
 import Experience from "@/components/Experience";
 import Footer from "@/components/Footer";
 import Grid from "@/components/Grid";
@@ -20,7 +21,17 @@ export default function Home() {
         <RecentProjects />
         <Clients />
         <Experience />
+        <div>
+        <h1 className="heading">
+        Additional <span className="text-blue-200">Coursework</span>
+      </h1>
+        <div className=" flex flex-wrap justify-center items-center">
+          
         <Course />
+        <Course2 />
+        </div>
+        </div>
+        
         <Honors />
         <Footer />
       </div>

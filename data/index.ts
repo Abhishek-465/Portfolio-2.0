@@ -75,9 +75,9 @@ export const projects = [
     title: "Model of Neutron Star",
     des: "Explore the wonders of the neutron stars with this project.",
     img: "/neutron.jpg",
-    iconLists: ["/python.jpg", "/jupi.png"],
-    link: "https://github.com/Abhishek-465/",
-    deploy: "https://github.com/Abhishek-465/",
+    iconLists: ["/python.jpg", "/jupi.png","/numpy.png","/mat.png"],
+    link: "https://github.com/Abhishek-465/Neutron-Star-Model",
+    deploy: "https://github.com/Abhishek-465/Neutron-Star-Model",
   },
   {
     id: 2,
@@ -87,7 +87,7 @@ export const projects = [
     iconLists: ["/next.svg", "/tail.svg", "/GCP.png"],
     link: "https://github.com/Abhishek-465/Promptbook",
     deploy:
-      "https://promptbook-r2gwcu51o-abhisheks-projects-b84e6f86.vercel.app/",
+      "https://github.com/Abhishek-465/Promptbook",
   },
   {
     id: 3,
@@ -96,16 +96,16 @@ export const projects = [
     img: "/samurai.jpg",
     iconLists: ["/html.png", "/css.png", "/js.png"],
     link: "https://github.com/Abhishek-465/StreetFighterSamurai-2D-Game",
-    deploy: "https://streetfightersamurai.netlify.app/",
+    deploy: "https://github.com/Abhishek-465/StreetFighterSamurai-2D-Game",
   },
   {
     id: 4,
-    title: "The Weather App",
-    des: "Instantly search and know about the weather of any place in the world.",
-    img: "/weather.jpg",
-    iconLists: ["/html.png", "/css.png", "/js.png"],
-    link: "https://github.com/Abhishek-465/The_Weather_App",
-    deploy: "https://abhishek-465.github.io/The_Weather_App/",
+    title: "Navigo",
+    des: "Instantly search and know about the nearby important amenities of any place in the world.",
+    img: "/weather.png",
+    iconLists: ["/next.svg","/mern-stack.png", "/tail.svg", "/GCP.png"],
+    link: "https://github.com/Abhishek-465/Navigo",
+    deploy: "https://github.com/Abhishek-465/Navigo",
   },
 ];
 
