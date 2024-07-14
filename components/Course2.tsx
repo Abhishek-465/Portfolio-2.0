@@ -1,5 +1,5 @@
 "use client";
-import pic from "../public/math.jpg";
+import pic from "../public/Math.jpg";
 
 import Image from "next/image";
 import React from "react";
