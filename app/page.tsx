@@ -1,6 +1,8 @@
 import Clients from "@/components/Clients";
 import { Course } from "@/components/Course";
 import { Course2 } from "@/components/Course2";
+import { Course3 } from "@/components/Course3";
+import { Course4 } from "@/components/Course4";
 import Experience from "@/components/Experience";
 import Footer from "@/components/Footer";
 import Grid from "@/components/Grid";
@@ -27,8 +29,10 @@ export default function Home() {
       </h1>
         <div className=" flex flex-wrap justify-center items-center">
           
-        <Course />
         <Course2 />
+        <Course3/>
+        <Course />
+        <Course4/>
         </div>
         </div>
         
@@ -37,4 +41,5 @@ export default function Home() {
       </div>
     </main>
   );
-}
+} 
+
