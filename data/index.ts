@@ -196,7 +196,7 @@ export const workExperience = [
   },
   {
     id: 2,
-    title: "Research Intern",
+    title: "Technical Intern",
     desc: "Techno Electric & Engineering Company Ltd (TEECL)",
     className: "md:col-span-2", // change to md:col-span-2
     thumbnail: "/exp2.svg",
